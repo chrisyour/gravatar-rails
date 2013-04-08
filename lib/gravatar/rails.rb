@@ -2,6 +2,6 @@ require "gravatar/rails/version"
 
 module Gravatar
   module Rails
-    # Your code goes here...
+    # Sweet code gravatar-rails code coming soon!
   end
 end
