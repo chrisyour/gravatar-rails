@@ -1,6 +1,6 @@
 # Gravatar::Rails
 
-TODO: Write a gem description
+Gravatars for the modern web. This Gem is coming soon. Right now, it is pretty much an empty gem project.
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO
 
 ## Contributing
 

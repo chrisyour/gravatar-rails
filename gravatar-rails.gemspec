@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Gravatar::Rails::VERSION
   spec.authors       = ["Chris Your"]
   spec.email         = ["chris@ignitionindustries.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Gravatars for the modern web.}
+  spec.summary       = %q{Learn how to use Gravatars in websites of today.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
